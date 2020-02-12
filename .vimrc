@@ -19,7 +19,6 @@ set softtabstop=2
 set shiftwidth=2
 
 " Font
-set macligatures
 set guifont=Fira\ Code:h16
 
 " Theme
